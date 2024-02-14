@@ -41,6 +41,7 @@ This project is a guide of how I built my resume on Azure, the core bones soluti
 <br />
 <br />
 <br />
+<h3> Section 1 Building the frontend
 <b>Creating Server 2019, assigning it 2048mb memory ram approx 2gb and 3 processors VM</b> <br/>
 <img src="https://i.imgur.com/nqjMOCy.jpg"/>
 <br />
