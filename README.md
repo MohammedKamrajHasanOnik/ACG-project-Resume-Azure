@@ -32,7 +32,7 @@ This project is a guide of how I built my resume on Azure, the core bones soluti
 - <b>Azure Functions Extensions:</b> https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 - <b>C# Extension:</b> https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 - <b>Azure Storage Extension:</b> https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage
-
+- <b>git application:</b> https://git-scm.com/download/win
 <h2 align="center">Program guide</h2>
 
 <p align="center">
