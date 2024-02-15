@@ -13,6 +13,8 @@ This project is a guide of how I built my resume on Azure, the core bones soluti
 - <b>.NET Core 3.1 SDK</b>
 - <b>Azure Cli</b>
 - <b>C# Extension</b>
+- <b>Javascript</b>
+- <b>HTML</b>
 
 <h2>Environments Used </h2>
 
