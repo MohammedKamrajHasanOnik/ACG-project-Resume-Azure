@@ -1,7 +1,7 @@
 <h1>ACG-project-Resume-Azure(with Blob Storage, Functions, CosmosDB, and Github Actions)</h1>
 
 
-<h2>(A Cloud Guru youtube video followed as guide)</h2>
+<h2>(A Cloud Guru youtube video followed as guide -https://www.youtube.com/watch?v=ieYrBWmkfno)</h2>
 
 <h2>Description</h2>
 This project is a guide of how I built my resume on Azure, the core bones solution would be inside of the Blob Storage, which will hold my static website i.e. Resume. In that website we will be utilizing HTML,CSS and JavaScript. The javascript will be utilzied to implement a visitor counter, which will be used to display the information but to importantly call an API, which I am going to  apply with an Azure function. Further to insinuate the azure function is going to intermingle with Azure Cosmos DB. This is the database service I will be using to store the visitor counter information. I am also going to use Azure CDN to enable features like HTTPS and custom domain support for my static site. That is deployed on Azure blob storage. Finally, for all my CI/CD tooling, I am going to use GitHub.
