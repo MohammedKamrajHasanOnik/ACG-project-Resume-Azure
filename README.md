@@ -50,7 +50,7 @@ This project is a guide of how I built my resume on Azure, the core bones soluti
 <br />
 <br />
 <h4>ssh private and public key generated using command prompt</h4>
-<p align="left"> <br/>
+<p align="left"> 
 <img src="https://i.imgur.com/xJ8MjIP.jpeg"/>
 <br />
 <br />
