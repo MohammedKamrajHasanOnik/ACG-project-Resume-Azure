@@ -152,15 +152,22 @@ This project is a guide of how I built my resume on Azure, the core bones soluti
 <br />
 <br />
 <br/>
-<h4>Creating new ResumeAzure Database</h4>
+<h4>get resume counter.cs created from backend api added HTTP Aspnet core, C#, .Net8 etc</h4>
 <p align="left">  <br/>
-<img src="https://i.imgur.com/A3fUimN.jpeg"/>
+<img src="https://i.imgur.com/dN36GLa.jpeg"/>
 <br />
 <br />
 <br/>
-<h4>Creating new ResumeAzure Database</h4>
+<h4>My resume online html webpage file opened</h4>
 <p align="left">  <br/>
-<img src="https://i.imgur.com/A3fUimN.jpeg"/>
+<img src="https://i.imgur.com/4NiMk4z.jpeg"/>
 <br />
 <br />
 <br/>
+<h4>My resume about me, profile picture, universities, education, work, certifications, and social link </h4>
+<p align="left">  <br/>
+<img src="https://i.imgur.com/56ooVcA.jpeg"/>
+<br />
+<br />
+<br/>
+-<b> This project could not be fully completed due to Net error, driver packages, and outdated coding, however I fully completed the front end and back end, as well as editing the html document. I searched youtube for a recent walkthrough could not find a recent walkthrough guide. 
